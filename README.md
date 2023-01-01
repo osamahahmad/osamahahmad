@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @osamahahmad
+- 👋 Hi, I’m @osamahahmad.
 - 👀 I’m interested in healthtech.
 - 🌱 I’m currently learning Node.js, with a view to becoming proficient with MEAN/MERN.
 - 💞️ I’m looking to collaborate on anything healthtech — I'm experienced with Flutter, PHP, JS, HTML and CSS.
