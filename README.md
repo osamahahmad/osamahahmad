@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @osamahahmad.
 - 👀 I’m interested in healthtech.
 - 🌱 I’m currently becoming proficient with MEAN/MERN.
-- 💞️ I’m looking to collaborate on anything healthtech — I'm experienced with PHP, JS, HTML and CSS.
+- 💞️ I’m looking to collaborate — I'm experienced with PHP, JS, HTML and CSS.
 - 📫 Email me@osamahahmad.com.
 
 <!---
