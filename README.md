@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @osamahahmad.
 - 👀 I’m interested in healthtech.
-- 🌱 I’m currently becoming proficient with MEAN/MERN.
+- 🌱 I’m currently becoming proficient with the MERN stack.
 - 💞️ I'm experienced with PHP, JS, HTML and CSS.
 
 <!---
